@@ -6,6 +6,8 @@ this Repo is a collection of resources of SharedViewModel with Java
 * [Shared-ViewModel](https://github.com/firozmahmud/Shared-ViewModel).
 * [SharedViewModel](https://github.com/nknr/SharedViewModel).
 * [SharedViewModelDemo](https://github.com/VGahukar/SharedViewModelDemo).
+* [ShareFragmentsViewModel](https://github.com/EyeHunts/ShareFragmentsViewModel).
+* [Android-Fragment-with-Shared-View-Model](https://github.com/putragraha/Android-Fragment-with-Shared-View-Model).
 
 
 ## Tutorial 
